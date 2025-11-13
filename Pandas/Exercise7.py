@@ -7,7 +7,7 @@
 import pandas as pd
 
 data = {
-    "name": ["A", "B", "C", "D", "E"],
+    "name": ["Ansh", "Bheem", "Chandhu", "Deva", "shiva"],
     "department": ["HR", "IT", "IT", "Finance", "HR"],
     "salary": [30000, 45000, 50000, 70000, 65000]
 }
@@ -19,3 +19,9 @@ p75 = df["salary"].quantile(0.75)
 result = df[df["salary"] > p75]
 
 print(result)
+
+# Output:
+# C:\Users\chand\Mazenet\Pandas>python Exercise7.py
+#   name department  salary
+# 3  Deva    Finance   70000
+

@@ -21,3 +21,9 @@ class Car(Vehicle):
 
 c = Car("Toyota", "Innova", 4)
 c.display()
+
+# Output:
+# C:\Users\chand\Mazenet\Python>python Exercise9.py 
+# Makes: Toyota
+# Model: Innova
+# Number of doors: 4

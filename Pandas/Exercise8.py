@@ -23,3 +23,11 @@ plt.xlabel("Category")
 plt.ylabel("Total Sales")
 plt.title("Sales by Category")
 plt.show()
+
+# Output:
+# category
+# Clothing      4500
+# Electronics   8000
+# Grocery       1500
+# Name: sales, dtype: int64
+

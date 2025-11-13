@@ -14,3 +14,15 @@ print("Diagonal elements:", diag)
 
 total = np.sum(diag)
 print("Sum of diagonal:", total)
+
+# Output:
+# C:\Users\chand\Mazenet\Numpy>python Exercise5.py
+# Matrix:
+# [[ 1  2  3  4  5]
+#  [ 6  7  8  9 10]
+#  [11 12 13 14 15]
+#  [16 17 18 19 20]
+#  [21 22 23 24 25]]
+# Diagonal elements: [ 1  7 13 19 25]
+# Sum of diagonal: 65
+

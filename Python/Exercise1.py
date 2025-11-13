@@ -12,3 +12,11 @@ else:
             break
 
 print(prime)
+
+# Output:
+# C:\Users\chand\Mazenet\Python>python Exercise1.py             
+# Enter a number: 29
+# True
+# C:\Users\chand\Mazenet\Python>python Exercise1.py
+# Enter a number: 15
+# False'''

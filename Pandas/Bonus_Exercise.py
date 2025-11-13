@@ -19,3 +19,10 @@ df.columns = ["Test1", "Test2", "Test3"]
 df["Average"] = df.mean(axis=1)
 
 print(df)
+
+# Output:
+#          Test1  Test2  Test3    Average
+# Chandhu     85     90     92  89.000000
+# Shiva       70     75     80  75.000000
+# Ram         88     85     91  88.000000
+

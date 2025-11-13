@@ -25,3 +25,8 @@ acc = BankAccount()
 acc.deposit(500)
 acc.withdraw(200)
 print("Balance:", acc.check_balance())
+
+# Output:
+# C:\Users\chand\Mazenet\Python>python Exercise10.py    
+# Balance: 300
+

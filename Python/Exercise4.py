@@ -17,3 +17,7 @@ for w in words:
     output[w] = count
 
 print(output)
+
+# Output:
+# C:\Users\chand\Mazenet\Python>python Exercise4.py 
+# {'apple': 2, 'sky': 0, 'orange': 3}

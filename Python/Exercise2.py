@@ -16,3 +16,7 @@ def even_numbers(nums):
 
 # Example
 print(even_numbers([5, 2, 8, 3, 10, 7]))
+
+#Output:
+# C:\Users\chand\Mazenet\Python>python Exercise2.py
+# [10, 8, 2]

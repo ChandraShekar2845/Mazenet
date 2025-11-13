@@ -12,3 +12,8 @@ s = set(t)          # Convert tuple to set
 result = sorted(s)  # Convert to sorted list
 
 print(result)
+
+# Output:
+# C:\Users\chand\Mazenet\Python>python Exercise3.py 
+# ['apple', 'banana', 'cherry']
+
