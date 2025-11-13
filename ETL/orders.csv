@@ -1,0 +1,4 @@
+Sale_ID,Customer_ID,Product,Quantity,Unit_Price,Total,Order_Date
+101,1,Laptop,1,75000,75000,2025-11-06
+102,2,Mobile,2,20000,40000,2025-11-06
+103,3,Headphones,3,1500,4500,2025-11-07

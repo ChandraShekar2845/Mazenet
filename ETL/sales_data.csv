@@ -1,0 +1,5 @@
+Sale_ID,Customer_ID,Product,Quantity,Unit_Price,Total,Sale_Date
+101,2,Keyboard,1,1500,1500,2025-11-08
+102,4,Mouse,2,500,1000,2025-11-08
+103,5,Charger,3,800,2400,2025-11-08
+104,2,Monitar,1,1500,1500,2025-11-08
