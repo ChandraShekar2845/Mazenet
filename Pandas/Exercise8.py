@@ -1,4 +1,9 @@
 # DataFrame Plotting
+# Create a DataFrame with product categories and sales data.
+# Group by category and sum sales.
+# Create a bar chart showing total sales per category.
+# Main idea: Aggregation + visualization.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

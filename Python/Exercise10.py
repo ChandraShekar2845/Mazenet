@@ -1,4 +1,10 @@
 # OOP – Encapsulation and Methods
+# Use a private variable __balance.
+# Deposit adds money.
+# Withdraw subtracts money, but only if balance is enough.
+# check_balance() shows current balance.
+# Main idea: Encapsulation + safe deposit/withdraw.
+
 class BankAccount:
     def __init__(self, balance=0):
         self.__balance = balance    

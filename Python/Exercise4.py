@@ -1,4 +1,9 @@
 # Dictionary Comprehension
+# You take a list of words.
+# For each word, count how many vowels it has (a, e, i, o, u).
+# Store results as: {word: vowel_count}.
+# Main idea: Dictionary comprehension + character checking.
+
 words = ["apple", "sky", "orange"]
 
 vowels = "aeiou"

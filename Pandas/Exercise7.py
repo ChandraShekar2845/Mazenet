@@ -1,4 +1,9 @@
 # Pandas DataFrame Filtering
+# Create a DataFrame with employee salaries.
+# Find the 75th percentile salary using .quantile(0.75).
+# Filter employees who earn more than that amount.
+# Main idea: Statistical filtering using percentile.
+
 import pandas as pd
 
 data = {
